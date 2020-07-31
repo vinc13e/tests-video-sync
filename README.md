@@ -1,1 +1,1 @@
-# tests-video-synch
+# tests-video-sync
